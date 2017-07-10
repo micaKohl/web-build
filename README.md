@@ -7,7 +7,7 @@ Project Goals:
 3. Update the website as progress in made on personal CS projects and teaching portfolio throughout summer and fall
 
 TODO:
-[] Create repo and link in Bootstrap to CSS
+[X] Create repo and link in Bootstrap to CSS
 [] Determine content and flow of website
 [] Build basic html files for needed pages
 [] Build header and navigation in HTML
