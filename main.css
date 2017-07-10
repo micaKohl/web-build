@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header h1{
+  font-weight: 600;
+  margin: 0;
+  color: #E8DFE0;
+}
