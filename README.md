@@ -7,19 +7,19 @@ Project Goals:
 3. Update the website as progress in made on personal CS projects and teaching portfolio throughout summer and fall
 
 TODO:
-[X] Create repo and link in Bootstrap to CSS
-[] Determine content and flow of website
-[] Build basic html files for needed pages
-[] Build header and navigation in HTML
-[] Style header in CSS
-[] Bulid footer
-[] Stye footer in CSS
-[] Build out home page with content place holders
-[] Link in content
-[] Style home page in CSS
-[] Build out subsequent pages as content is added and linked to
-[] Add descriptors for content
-[] Check flow on desktop and mobile
-[] Clean up padding and margins in CSS
-[] Experiment with font and color combinations in CSS
-[] Host on UTCS server
+-[X] Create repo and link in Bootstrap to CSS
+-[] Determine content and flow of website
+-[] Build basic html files for needed pages
+-[] Build header and navigation in HTML
+-[] Style header in CSS
+-[] Bulid footer
+-[] Stye footer in CSS
+-[] Build out home page with content place holders
+-[] Link in content
+-[] Style home page in CSS
+-[] Build out subsequent pages as content is added and linked to
+-[] Add descriptors for content
+-[] Check flow on desktop and mobile
+-[] Clean up padding and margins in CSS
+-[] Experiment with font and color combinations in CSS
+-[] Host on UTCS server
