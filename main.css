@@ -11,7 +11,7 @@ header h1{
 
 
 .jumbotron {
-  background-color: #FC4A1A;
+  background-color: #CAEBF2;
 }
 
 .jumbotron h2{
@@ -20,3 +20,24 @@ header h1{
   margin: 0;
   color: #FFF;
 }
+
+.jumbotron h3{
+  font-size: 20px;
+  color: #EEAA78;
+}
+
+.btn-category { 
+  color: #FFFFFF; 
+  background-color: #EEAA7B; 
+  border-color: #EEAA7B; 
+} 
+
+.btn-category:hover, 
+.btn-category:focus, 
+.btn-category:active, 
+.btn-category.active, 
+.open .dropdown-toggle.btn-category { 
+  color: #FFFFFF; 
+  background-color: #F07211; 
+  border-color: #F07211; 
+} 
