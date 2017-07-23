@@ -9,16 +9,27 @@ header h1{
   color: #E8DFE0;
 }
 
-
 .jumbotron {
   background-color: #CAEBF2;
 }
 
-.jumbotron h2{
+.jumbotron h2,
+.title,
+.title:visited,
+.title:active{
   font-weight: 100;
   font-size: 60px;
   margin: 0;
   color: #FFF;
+  text-decoration: none;
+}
+
+.title:hover{
+  font-weight: 100;
+  font-size: 60px;
+  margin: 0;
+  color: #F07211;
+  text-decoration: none;
 }
 
 .jumbotron h3{
@@ -30,6 +41,8 @@ header h1{
   color: #FFFFFF; 
   background-color: #EEAA7B; 
   border-color: #EEAA7B; 
+  border-radius: 0;
+  margin-bottom: 3px;
 } 
 
 .btn-category:hover, 
@@ -39,5 +52,23 @@ header h1{
 .open .dropdown-toggle.btn-category { 
   color: #FFFFFF; 
   background-color: #F07211; 
-  border-color: #F07211; 
-} 
+  border-color: #F07211;
+ }
+
+ .nav a{
+
+ }
+
+ .comingSoon h4{
+  font-weight: 600;
+  margin: 0;
+  color: #EEAA7B;
+  text-align: center;
+}
+
+.content h1{
+  font-weight: 600;
+  margin: 10;
+  color: #F07211;
+  text-align: center;
+}
