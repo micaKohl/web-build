@@ -1,6 +1,28 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+/* Coolors Exported Palette - coolors.co/4a4c47-e3efef-ffffff-93d5d6-f4cd4b */
+
+
+/* HSL */
+
+$color1: hsla(84%, 3%, 29%, 1);
+$color2: hsla(180%, 27%, 91%, 1);
+$color3: hsla(0%, 0%, 100%, 1);
+$color4: hsla(181%, 45%, 71%, 1);
+$color5: hsla(46%, 88%, 63%, 1);
+
+/* RGB */
+
+$color1: rgba(74, 76, 71, 1);
+$color2: rgba(227, 239, 239, 1);
+$color3: rgba(255, 255, 255, 1);
+$color4: rgba(147, 213, 214, 1);
+$color5: rgba(244, 205, 75, 1);
+
 /* You can add global styles to this file, and also import other style files */
 
-body {
+
+/* body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
@@ -71,4 +93,4 @@ header h1 {
     margin: 10;
     color: #F07211;
     text-align: center;
-}
+} */
